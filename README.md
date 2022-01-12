@@ -1,6 +1,7 @@
 # LeetCode
 Algorithm problem collection on the LeetCode site 🌱
-
+  
+  
 컴퓨테이셔널 씽킹은 4가지로 되어 있습니다.
 * 분해: 복잡한 문제를 작은 문제로 나눕니다.
 * 패턴 인식: 문제 안에서 유사성을 발견합니다.
